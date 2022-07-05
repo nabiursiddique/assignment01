@@ -106,6 +106,10 @@ hr{
     margin-right: 5%;
     margin-top: 5%;
 }
+.short-heading{
+    font-size: 38px;
+    font-weight: 600;
+}
 .half-width{
     width: 50%;
     padding-left: 10%;
