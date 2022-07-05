@@ -3,7 +3,6 @@ body{
     font-family: 'Roboto', sans-serif;
 }
 
-
 .section-01{
     background-image: url(./images/donation13.jpg);
     background-repeat: no-repeat;
@@ -11,7 +10,7 @@ body{
     height: 90vh;
     width: 100%;
 }
-.section-01 .heading{
+ .heading{
     text-align: center;
     padding-top: 15%;
     margin: 0;
@@ -33,3 +32,46 @@ body{
     text-align: center;
     padding-top: 20px;
 }
+
+/* second section */
+.section-02{
+    text-align: center;
+}
+.heading2{
+    text-align: center;
+    padding-top: 10%;
+    margin: 0;
+    font-size: 40px;
+    font-weight: 600;
+}
+.below-heading2{
+    text-align: center;
+}
+
+.pricing{
+    text-align: center;
+    padding: 5%;
+}
+.pricing a{
+    text-decoration: none;
+    background-color: #fafafa;
+    color: #707070;
+    padding: 35px 25px;
+    font-weight: 600;
+    font-size: 20px;
+}
+#red-box{
+    border: 2px solid red;
+    background-color: #ffeeee;
+    color: #ff5959;
+    border-radius: 5px;
+}
+.payment{
+    margin-top: 3%;
+}
+hr{
+    width: 60%;
+}
+
+
+/* third section  */
